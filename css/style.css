@@ -1,0 +1,39 @@
+body {
+    font: 20px Arial;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #077FE3;
+}
+
+.home{
+    background-color: #4508FD;
+    color: #fff;
+}
+
+section .margin > *{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+
+.about-us {
+    background-color: #1455FA;
+}
+
+.contributors {
+    background-color: #08CEFD;
+}
+
+.bg-footer {
+    background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+
+.bg-footer p {
+    margin: 0;
+}
